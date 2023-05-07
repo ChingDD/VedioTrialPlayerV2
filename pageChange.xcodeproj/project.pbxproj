@@ -13,6 +13,17 @@
 		C24629022A04F2B1003C5B81 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C24629002A04F2B1003C5B81 /* Main.storyboard */; };
 		C24629042A04F2B2003C5B81 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C24629032A04F2B2003C5B81 /* Assets.xcassets */; };
 		C24629072A04F2B2003C5B81 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C24629052A04F2B2003C5B81 /* LaunchScreen.storyboard */; };
+		C246290F2A04F2EA003C5B81 /* Info.swift in Sources */ = {isa = PBXBuildFile; fileRef = C246290E2A04F2EA003C5B81 /* Info.swift */; };
+		FC2D63D62A06CD7600CC6F85 /* 比悲傷更悲傷的故事.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = FC2D63D52A06CD7600CC6F85 /* 比悲傷更悲傷的故事.mp4 */; };
+		FC2D63E02A06CFF600CC6F85 /* 她和她的她.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = FC2D63D72A06CFF500CC6F85 /* 她和她的她.mp4 */; };
+		FC2D63E12A06CFF600CC6F85 /* 華燈初上.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = FC2D63D82A06CFF500CC6F85 /* 華燈初上.mp4 */; };
+		FC2D63E22A06CFF600CC6F85 /* 今際之國的闖關者.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = FC2D63D92A06CFF500CC6F85 /* 今際之國的闖關者.mp4 */; };
+		FC2D63E32A06CFF600CC6F85 /* 模仿犯.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = FC2D63DA2A06CFF500CC6F85 /* 模仿犯.mp4 */; };
+		FC2D63E42A06CFF600CC6F85 /* AV帝王.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = FC2D63DB2A06CFF500CC6F85 /* AV帝王.mp4 */; };
+		FC2D63E52A06CFF600CC6F85 /* First Love 初戀.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = FC2D63DC2A06CFF500CC6F85 /* First Love 初戀.mp4 */; };
+		FC2D63E62A06CFF600CC6F85 /* 相撲聖域.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = FC2D63DD2A06CFF600CC6F85 /* 相撲聖域.mp4 */; };
+		FC2D63E72A06CFF600CC6F85 /* 我家的故事.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = FC2D63DE2A06CFF600CC6F85 /* 我家的故事.mp4 */; };
+		FC2D63E82A06CFF600CC6F85 /* 茶金.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = FC2D63DF2A06CFF600CC6F85 /* 茶金.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +35,17 @@
 		C24629032A04F2B2003C5B81 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C24629062A04F2B2003C5B81 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C24629082A04F2B2003C5B81 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C246290E2A04F2EA003C5B81 /* Info.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Info.swift; sourceTree = "<group>"; };
+		FC2D63D52A06CD7600CC6F85 /* 比悲傷更悲傷的故事.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "比悲傷更悲傷的故事.mp4"; sourceTree = "<group>"; };
+		FC2D63D72A06CFF500CC6F85 /* 她和她的她.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "她和她的她.mp4"; sourceTree = "<group>"; };
+		FC2D63D82A06CFF500CC6F85 /* 華燈初上.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "華燈初上.mp4"; sourceTree = "<group>"; };
+		FC2D63D92A06CFF500CC6F85 /* 今際之國的闖關者.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "今際之國的闖關者.mp4"; sourceTree = "<group>"; };
+		FC2D63DA2A06CFF500CC6F85 /* 模仿犯.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "模仿犯.mp4"; sourceTree = "<group>"; };
+		FC2D63DB2A06CFF500CC6F85 /* AV帝王.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AV帝王.mp4"; sourceTree = "<group>"; };
+		FC2D63DC2A06CFF500CC6F85 /* First Love 初戀.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "First Love 初戀.mp4"; sourceTree = "<group>"; };
+		FC2D63DD2A06CFF600CC6F85 /* 相撲聖域.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "相撲聖域.mp4"; sourceTree = "<group>"; };
+		FC2D63DE2A06CFF600CC6F85 /* 我家的故事.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "我家的故事.mp4"; sourceTree = "<group>"; };
+		FC2D63DF2A06CFF600CC6F85 /* 茶金.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "茶金.mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,9 +82,20 @@
 				C24628FC2A04F2B1003C5B81 /* SceneDelegate.swift */,
 				C24628FE2A04F2B1003C5B81 /* ViewController.swift */,
 				C24629002A04F2B1003C5B81 /* Main.storyboard */,
+				C246290E2A04F2EA003C5B81 /* Info.swift */,
 				C24629032A04F2B2003C5B81 /* Assets.xcassets */,
 				C24629052A04F2B2003C5B81 /* LaunchScreen.storyboard */,
 				C24629082A04F2B2003C5B81 /* Info.plist */,
+				FC2D63D52A06CD7600CC6F85 /* 比悲傷更悲傷的故事.mp4 */,
+				FC2D63D92A06CFF500CC6F85 /* 今際之國的闖關者.mp4 */,
+				FC2D63D72A06CFF500CC6F85 /* 她和她的她.mp4 */,
+				FC2D63DE2A06CFF600CC6F85 /* 我家的故事.mp4 */,
+				FC2D63DD2A06CFF600CC6F85 /* 相撲聖域.mp4 */,
+				FC2D63DF2A06CFF600CC6F85 /* 茶金.mp4 */,
+				FC2D63D82A06CFF500CC6F85 /* 華燈初上.mp4 */,
+				FC2D63DA2A06CFF500CC6F85 /* 模仿犯.mp4 */,
+				FC2D63DB2A06CFF500CC6F85 /* AV帝王.mp4 */,
+				FC2D63DC2A06CFF500CC6F85 /* First Love 初戀.mp4 */,
 			);
 			path = pageChange;
 			sourceTree = "<group>";
@@ -125,9 +158,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FC2D63E82A06CFF600CC6F85 /* 茶金.mp4 in Resources */,
 				C24629072A04F2B2003C5B81 /* LaunchScreen.storyboard in Resources */,
+				FC2D63E52A06CFF600CC6F85 /* First Love 初戀.mp4 in Resources */,
+				FC2D63E02A06CFF600CC6F85 /* 她和她的她.mp4 in Resources */,
 				C24629042A04F2B2003C5B81 /* Assets.xcassets in Resources */,
+				FC2D63D62A06CD7600CC6F85 /* 比悲傷更悲傷的故事.mp4 in Resources */,
+				FC2D63E22A06CFF600CC6F85 /* 今際之國的闖關者.mp4 in Resources */,
+				FC2D63E42A06CFF600CC6F85 /* AV帝王.mp4 in Resources */,
+				FC2D63E32A06CFF600CC6F85 /* 模仿犯.mp4 in Resources */,
+				FC2D63E62A06CFF600CC6F85 /* 相撲聖域.mp4 in Resources */,
 				C24629022A04F2B1003C5B81 /* Main.storyboard in Resources */,
+				FC2D63E12A06CFF600CC6F85 /* 華燈初上.mp4 in Resources */,
+				FC2D63E72A06CFF600CC6F85 /* 我家的故事.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,6 +182,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C24628FF2A04F2B1003C5B81 /* ViewController.swift in Sources */,
+				C246290F2A04F2EA003C5B81 /* Info.swift in Sources */,
 				C24628FB2A04F2B1003C5B81 /* AppDelegate.swift in Sources */,
 				C24628FD2A04F2B1003C5B81 /* SceneDelegate.swift in Sources */,
 			);
